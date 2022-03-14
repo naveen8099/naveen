@@ -1,0 +1,11 @@
+{
+    "author":"Brendan Dayley",
+    "name":"censorify",
+    "version":"0.1.14",
+    "description":"censor words out of text",
+    "main":"censortext",
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
+}
